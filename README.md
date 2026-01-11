@@ -59,7 +59,7 @@ All other modules are part of Python’s standard library.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/interactive-arp-scanner.git
+git clone https://github.com/shaikhanzaar63-sudo/interactive-arp-scanner
 cd interactive-arp-scanner
 python3 -m venv venv
 source venv/bin/activate
