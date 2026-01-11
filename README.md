@@ -57,7 +57,7 @@ All other modules are part of Python’s standard library.
 
 ## 🐧 Linux Installation
 
-### 1️⃣ Clone the repository
+### 1️⃣ FULL INSTALLATION 
 ```bash
 git clone https://github.com/shaikhanzaar63-sudo/interactive-arp-scanner
 cd interactive-arp-scanner
